@@ -2,4 +2,4 @@
 
 
 
-It's just a sgn up UI in react
+It's just a sign up UI in react
